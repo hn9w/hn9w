@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hn9w
-- 👀 I’m interested in Rhythm Game
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me u/hn9wReddit on Reddit
+- 👀 I’m interested (in Rhythm Game)
+- 🌱 I’m currently learning (nothing right now lol)
+- 💞️ I’m looking to collaborate on (anything!)
+- 📫 How to reach me (u/hn9wReddit on Reddit)
 
 <!---
 hn9w/hn9w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
